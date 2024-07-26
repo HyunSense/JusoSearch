@@ -1,0 +1,67 @@
+.header {
+    background-color: #f5f5f5;
+}
+
+.logo {
+    margin-left: 100px;
+}
+
+.logo span {
+    color: #124076;
+}
+
+.loginInfo {
+    margin-top: 20px;
+    margin-right: 100px;
+}
+
+.loginInfo span{
+    color: #61677A;
+}
+
+.loginInfo .btn {
+    width: 150px;
+}
+
+.map_history{
+    margin: 0 50px;
+}
+
+.map {
+    width: 60%;
+    height: 450px;
+    margin-right: 2%;
+}
+
+.searchBtn {
+    width: 180px;
+}
+
+.historyTable .table tbody tr {
+    height: 20px;
+}
+
+
+.modal-dialog {
+    max-width: 620px;
+}
+
+.modalTable {
+    height: 380px;
+    margin-top: 5px;
+}
+
+.modalTable tbody tr {
+    height: 45px;
+    line-height: 45px;
+}
+
+.table{
+    height: 400px;
+}
+
+.btn-close {
+    font-size: 12px;
+}
+
+
