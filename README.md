@@ -1,5 +1,13 @@
 # 주소검색 서비스 & Security Login
 --- ---
+# 개발 환경
+- Language : Java 11
+- Frontend : Javascript, Ajax, html, css(Bootstrap)
+- Backend : SpringBoot 2.3, SpringSecurity 5.7, Thymeleaf 3.0, Oauth2-client, MyBatis
+- DB : MariaDB
+- API : 도로명 주소 검색 API, 네이버 지도 API 
+- ETC : VMware, CentOS, IntelliJ
+
 # 프로젝트 주요 기능
 
 ## 로그인
